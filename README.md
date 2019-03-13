@@ -1,2 +1,2 @@
-# Programa-Orientada-a-Objeto
+# Programa-Orientado-a-Objeto
 Projeto Vôlei
